@@ -28,8 +28,11 @@ El análisis se estructuró en las siguientes etapas:
 3.2. **Preprocesamiento y Limpieza de Datos**
 
 •	Eliminación de columnas irrelevantes: CustomerID fue eliminada.
+
 •	Manejo de inconsistencias: Los valores 'No internet service' en columnas de servicios se reemplazaron por 'No' para unificar categorías.
+
 •	Verificación de nulos: Se confirmó la ausencia de valores nulos.
+
 •	Eliminación de columnas correlacionadas: ChargesDaily y ChargesTotal se eliminaron para evitar multicolinealidad, ya que presentaban alta correlación con ChargesMonthly y Tenure.
 
 3.3. **Análisis Exploratorio de Datos (EDA) y Selección de Características**
