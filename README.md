@@ -1,4 +1,4 @@
-#Proyecto: Predicción de Cancelación (Churn) en Telecom X
+##Proyecto: Predicción de Cancelación (Churn) en Telecom X
 
 1. Introducción
 Este proyecto tiene como objetivo predecir la cancelación de clientes (churn) en la empresa Telecom X utilizando técnicas de Machine Learning. La identificación temprana de clientes en riesgo de abandono es crucial para implementar estrategias de retención efectivas.
